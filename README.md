@@ -4,11 +4,21 @@
 
 ## 在线浏览
 
-将本目录发布到 GitHub Pages 后，仓库主页会自动使用 `index.html`。
+**在线体验：** <https://xltxl.github.io/ningbo-university-campus-maquette/>
 
 - 交互式模型：`index.html`
 - GLB 下载：[model.glb](./model.glb)
 - 总览图：[screenshots/overview.png](./screenshots/overview.png)
+
+![宁波大学主校区模型总览](./screenshots/overview.png)
+
+## 模型特色
+
+- 主校区、北校区与北区学生公寓，不含梅山校区。
+- 南天门及 44 级大踏步、包玉刚教学楼、大草坪和主要学院分布。
+- 分层的草地、林地、道路、广场、水系与塑胶跑道材质。
+- 李兴贵篮球场按 6 片场地、12 个篮架独立建模。
+- 体育馆采用独立弧形屋面和玻璃门厅；东区司令台包含看台、座椅与指挥台。
 
 ## GitHub Pages 发布
 
@@ -21,6 +31,12 @@
 
 ```text
 https://<你的GitHub用户名>.github.io/ningbo-university-campus-maquette/
+```
+
+本仓库已经发布在：
+
+```text
+https://xltxl.github.io/ningbo-university-campus-maquette/
 ```
 
 ## 本地预览
